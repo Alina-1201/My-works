@@ -39,11 +39,6 @@ input::before {
     border-radius: 50%;
 }
 
-input:checked{
-    background-color: black;
-    color: #fff;
-}
-
 input:checked + .wrapper{
     background-color: black;
     color: #fff;
